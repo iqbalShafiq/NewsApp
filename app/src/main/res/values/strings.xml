@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New App</string>
+    <string name="bulletin_news">Bulletin News</string>
+    <string name="avatar_icon">avatar icon</string>
+    <string name="saturday_august_2th">Saturday, August 2th</string>
+    <string name="wellcome_back_njennifer">Wellcome back,\nJennifer</string>
+    <string name="just_for_you">Just For You</string>
+    <string name="there_is_error_when_fetching_api">There is error when fetching API</string>
+</resources>
